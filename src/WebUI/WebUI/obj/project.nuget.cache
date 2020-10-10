@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iRuE+Gm7Fy6mQRxOjLYSBXoS+2XUKuDN8txsDYzqszbQ3esb2i8/n/F/hWyPjTvJDr2wxSkf0QvE6ffg76KC2g==",
+  "success": true,
+  "projectFilePath": "C:\\repos\\BlogApp\\WebUI\\WebUI\\WebUI.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sedat_2\\.nuget\\packages\\fsharp.core\\4.7.1\\fsharp.core.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
